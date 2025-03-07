@@ -5,7 +5,7 @@ requests==2.31.0             # Requisições HTTP
 pandas==2.2.2                # Manipulação de dados
 
 # Análise de Dados e Machine Learning
-scikit-learn==1.4.2          # Clusterização (K-Means, TF-IDF)
+scikit-learn==1.5.1          # Clusterização (K-Means, TF-IDF)
 numpy==1.26.4                # Computação numérica
 gensim==4.3.2                # Modelagem de tópicos (NLP)
 
