@@ -18,7 +18,7 @@ networkx==3.3                # Criação de grafos
 # Processamento de Linguagem Natural (NLP)
 spacy==3.7.4                 # Pré-processamento de textos
 spacy-model-pt==0.0.0        # Modelo em português (spaCy)
-transformers==4.38.2         # Modelos BERT para NLP
+transformers==4.48.0         # Modelos BERT para NLP
 
 # Ambiente e Utilitários
 jupyter==1.0.0               # Documentação interativa
