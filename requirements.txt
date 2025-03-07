@@ -1,25 +1,25 @@
 # Coleta de Dados e Processamento
-beautifulsoup4==4.12.3       # Para web scraping <button class="citation-flag" data-index="4">
-selenium==4.21.0             # Extração de dados dinâmicos <button class="citation-flag" data-index="4">
-requests==2.31.0             # Requisições HTTP <button class="citation-flag" data-index="4">
-pandas==2.2.2                # Manipulação de dados <button class="citation-flag" data-index="3"><button class="citation-flag" data-index="6">
+beautifulsoup4==4.12.3       # Para web scraping
+selenium==4.21.0             # Extração de dados dinâmicos
+requests==2.31.0             # Requisições HTTP
+pandas==2.2.2                # Manipulação de dados
 
 # Análise de Dados e Machine Learning
-scikit-learn==1.4.2          # Clusterização (K-Means, TF-IDF) <button class="citation-flag" data-index="3"><button class="citation-flag" data-index="5"><button class="citation-flag" data-index="6">
-numpy==1.26.4                # Computação numérica <button class="citation-flag" data-index="6">
-gensim==4.3.2                # Modelagem de tópicos (NLP) <button class="citation-flag" data-index="3"><button class="citation-flag" data-index="8">
+scikit-learn==1.4.2          # Clusterização (K-Means, TF-IDF)
+numpy==1.26.4                # Computação numérica
+gensim==4.3.2                # Modelagem de tópicos (NLP)
 
 # Visualização
-matplotlib==3.8.3            # Geração de gráficos estáticos <button class="citation-flag" data-index="7">
-seaborn==0.13.2              # Visualização estatística <button class="citation-flag" data-index="7">
-plotly==5.22.0               # Gráficos interativos <button class="citation-flag" data-index="2"><button class="citation-flag" data-index="4">
-networkx==3.3                # Criação de grafos <button class="citation-flag" data-index="6">
+matplotlib==3.8.3            # Geração de gráficos estáticos
+seaborn==0.13.2              # Visualização estatística
+plotly==5.22.0               # Gráficos interativos
+networkx==3.3                # Criação de grafos
 
 # Processamento de Linguagem Natural (NLP)
-spacy==3.7.4                 # Pré-processamento de textos <button class="citation-flag" data-index="8">
-spacy-model-pt==0.0.0        # Modelo em português (spaCy) <button class="citation-flag" data-index="8">
-transformers==4.38.2         # Modelos BERT para NLP <button class="citation-flag" data-index="3"><button class="citation-flag" data-index="8">
+spacy==3.7.4                 # Pré-processamento de textos
+spacy-model-pt==0.0.0        # Modelo em português (spaCy)
+transformers==4.38.2         # Modelos BERT para NLP
 
 # Ambiente e Utilitários
-jupyter==1.0.0               # Documentação interativa <button class="citation-flag" data-index="7">
+jupyter==1.0.0               # Documentação interativa
 python-dotenv==1.0.1         # Gerenciamento de variáveis de ambiente
