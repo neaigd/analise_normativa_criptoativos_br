@@ -1,0 +1,40 @@
+```plaintext
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição / empacotamento
+build/
+dist/
+*.egg-info/
+
+# Ambiente virtual
+venv/
+ENV/
+env/
+.venv/
+.env/
+.env.bak/
+venv.bak/
+
+# Instalação de pacotes
+.Python
+
+# Logs de instalação
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testes e cobertura de código
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Outros arquivos e diretórios comuns
+*.log
+*.sqlite3
+```
